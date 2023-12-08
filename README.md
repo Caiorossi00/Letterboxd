@@ -4,10 +4,13 @@ Projeto Inicial: Letterboxd - Um Clone Visual em CSS. <br>
 O projeto é um clone visual da interface do site Letterboxd.com. Este é o meu segundo projeto de desenvolvimento web. O primeiro onde apliquei, de maneira estruturada, e divindo em diversas seções, a ideia de replicar uma interface do 0 utilizando HTML E CSS.
 
 Destaques e Aprendizados: <br>
-1. Estruturação e estilo
-2. Uso de flexbox
-3. Manipulação de Cores e Design
-4. Trabalho com diversos elementos numa única página
+<ol>
+  <li>Estruturação e estilo</li>
+  <li>Uso de Flexbox</li>
+  <li>Manipulação de Cores e Design</li>
+  <li>Trabalho com diversos elementos numa única página</li>
+</ol>
+
 
 Datas Importantes: 
 <ol>
