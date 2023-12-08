@@ -9,13 +9,17 @@ Destaques e Aprendizados: <br>
 3. Manipulação de Cores e Design
 4. Trabalho com diversos elementos numa única página
 
-Datas Importantes: <br>
-Início: 07/08/2023 <br>
-Conclusão: 14/08/2023
+Datas Importantes: 
+<ol>
+  <li>Início: 07/08/2023 
+</li>
+<li>Conclusão: 14/08/2023
+</li>
+</ol>
 
 Possíveis Revisões Futuras:
 Considero a possibilidade de revisões futuras, incluindo uma reestruturação mais aprofundada do CSS para otimização e a implementação de responsividade, garantindo uma experiência perfeita em diferentes dispositivos.
 
-Link: Link: <a href="https://caiorossi00.github.io/Letterboxd/" target="_blank">Letterboxd</a>
+Link: <a href="https://caiorossi00.github.io/Letterboxd/" target="_blank">Letterboxd</a>
 
 
