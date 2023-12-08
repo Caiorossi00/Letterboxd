@@ -11,16 +11,15 @@ Destaques e Aprendizados: <br>
   <li>Trabalho com diversos elementos numa única página</li>
 </ol>
 
-
 Datas Importantes: 
 <ol>
   <li>Início: 07/08/2023 
-</li>
-<li>Conclusão: 14/08/2023
-</li>
+  </li>
+  <li>Conclusão: 14/08/2023
+  </li>
 </ol>
 
-Possíveis Revisões Futuras:
+Possíveis Revisões Futuras: <br>
 Considero a possibilidade de revisões futuras, incluindo uma reestruturação mais aprofundada do CSS para otimização e a implementação de responsividade, garantindo uma experiência perfeita em diferentes dispositivos.
 
 Link: <a href="https://caiorossi00.github.io/Letterboxd/" target="_blank">Letterboxd</a>
