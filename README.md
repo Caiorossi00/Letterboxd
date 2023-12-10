@@ -12,12 +12,10 @@ Destaques e Aprendizados: <br>
 </ol>
 
 Datas Importantes: 
-<ol>
-  <li>Início: 07/08/2023 
-  </li>
-  <li>Conclusão: 14/08/2023
-  </li>
-</ol>
+<ul>
+  <li>Início: 07/08/2023</li>
+  <li>Conclusão: 14/08/2023</li>
+</ul>
 
 Possíveis Revisões Futuras: <br>
 Considero a possibilidade de revisões futuras, incluindo uma reestruturação mais aprofundada do CSS para otimização e a implementação de responsividade, garantindo uma experiência perfeita em diferentes dispositivos.
